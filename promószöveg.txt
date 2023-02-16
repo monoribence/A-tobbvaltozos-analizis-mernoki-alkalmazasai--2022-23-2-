@@ -1,0 +1,14 @@
+Kedves Hallgatók!
+
+Szeretnénk felhívni a figyelmetek a félév során induló "A többváltozós analízis mérnöki alkalmazásai" (BMETE90AX42), tehetséggondozó tárgyra, különös tekintettel annak programozós vonalára. Természetesen programozói előismeret nem szükséges, a tárgyat annak ismeretében állítottuk össze, hogy itt az egyetemen még legtöbbőtök nem tanult semmiféle programozást.
+
+A tárgy célkitűzése, hogy betekintést nyerhessetek olyan témákba, mint:
+- A Python programozás alapjai: mi is egyáltalán a programozás, mire jó ez? Mik azok a változók, utasítások, elágazások, ciklusok, függvények? Mi az az objektum, mik az osztályok?
+- A Python matematikai eszköztára: egy- és többváltozós függvények ábrázolása, műveletek vektorokkal és mátrixokkal. Hogyan készítsünk egy mechanika példához szimbolikus levezetést Python segítségével?
+- Képfeldolgozás: képminőség javítása, élkeresés, objektumok detektálása (például egy gyalogost hogyan ismer fel egy önvezető autó, vagy hogyan képes egy mezőgazdasági robot felismerni az érett gyümölcsöket anélkül, hogy az valaha látott volna akármilyen gyümölcsöt is.)
+- Bevezetés a Mesterséges Inteligencia és a Mélytanulás (Deep Learning) világába: mi az a mesterséges inteligencia és hol helyezkednek el ebben a neurális hálózatok? Hogyan írjunk egy programot, ami megkülönbözteti a kutyákat és a macskákat, vagy éppen a pozitív és a negatív IMDb értékeléseket?
+Emellett igyekszünk nektek valós ipari problémákkal egybekötve bemutatni mindezt, hogy egy kicsit jobban belelássatok milyen érdekes problémákon dolgozhat egy mechatronikai mérnök.
+
+Ha mindez felkeltette az érdeklődéseteket, akkor várunk titeket nagyon sok szeretettel a tavaszi félév során. Bármilyen kérdés esetén nyugodt szívvel forduljatok hozzánk, akár Teamsen, vagy az alábbi elérhetőségeken:
+- Monori Bence (m.bence02@outlook.hu)
+- Wenesz Dominik (weneszdominik@gmail.com)
